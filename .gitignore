@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+!*/
+
+# Don't ignore these folders
+!mods/
+!shaderpacks/
+!resourcepacks/
+
+# But DO ignore their subfolders and files (we only want the jar/zip files)
+mods/*
+!mods/*.jar
+!mods/*.disabled
+
+shaderpacks/*
+!shaderpacks/*.zip
+!shaderpacks/*.glsl
+
+resourcepacks/*
+!resourcepacks/*.zip
+
+# Also keep .gitignore itself
+!.gitignore
