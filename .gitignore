@@ -29,7 +29,6 @@ resourcepacks/*
 !packwiz-pack/resourcepacks/*.toml
 !packwiz-pack/shaderpacks/
 !packwiz-pack/shaderpacks/*.toml
-!packwiz-pack/*.mrpack
 
 # Also keep .gitignore itself
 !.gitignore
