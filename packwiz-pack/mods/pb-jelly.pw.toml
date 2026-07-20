@@ -1,0 +1,13 @@
+name = "Pointblank: Jelly"
+filename = "pointblank-forge-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RghT3FYJ/versions/mJMkYKoi/pointblank-forge-1.20.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "dd1e61c40ab73a1abd6049c5878ee8e15bce29ea55962be9364b2293a0ce58d6521db3b14575d0f285df03d08c8333e1dee1a3434cf471cc9421f54f533c26f8"
+
+[update]
+[update.modrinth]
+mod-id = "RghT3FYJ"
+version = "mJMkYKoi"

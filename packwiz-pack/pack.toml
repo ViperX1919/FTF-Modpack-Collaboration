@@ -1,0 +1,13 @@
+name = "FTF Modpack Collaboration"
+author = "ViperX1919"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "acd940b4f556d6b37d40ffa1a70a8d8628df764cad0ba44f2a0af93f034ec650"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

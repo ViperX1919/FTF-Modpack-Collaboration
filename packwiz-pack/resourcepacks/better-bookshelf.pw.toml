@@ -1,0 +1,13 @@
+name = "Better Bookshelf"
+filename = "§6§lBetter Bookshelf.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ced51c4f7fc6ab3e1191c344186f87a7ac10e4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6417988
+project-id = 871648

@@ -19,5 +19,17 @@ shaderpacks/*
 resourcepacks/*
 !resourcepacks/*.zip
 
+# packwiz pack (tracked metadata, not the raw jars it manages)
+!packwiz-pack/
+!packwiz-pack/*.toml
+!packwiz-pack/mods/
+!packwiz-pack/mods/*.toml
+!packwiz-pack/mods/*.jar
+!packwiz-pack/resourcepacks/
+!packwiz-pack/resourcepacks/*.toml
+!packwiz-pack/shaderpacks/
+!packwiz-pack/shaderpacks/*.toml
+!packwiz-pack/*.mrpack
+
 # Also keep .gitignore itself
 !.gitignore

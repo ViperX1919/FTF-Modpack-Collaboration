@@ -1,0 +1,13 @@
+name = "Silent Ziplines"
+filename = "Silent Ziplines.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51fcb1ee8942f47237a222875db8a99ffce3af13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7922888
+project-id = 1513434

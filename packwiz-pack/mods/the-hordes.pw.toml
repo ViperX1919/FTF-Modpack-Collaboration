@@ -1,0 +1,13 @@
+name = "The Hordes"
+filename = "The-Hordes-1.20.1-1.6.3f-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O3HDffUR/versions/Y9ER59oU/The-Hordes-1.20.1-1.6.3f-all.jar"
+hash-format = "sha512"
+hash = "3b6e5b1a0fb0604569098259ebac41c6c23fa841112dbc5d10ec8b272a91e34501fa4573244da4367f65384aaeeb76963443f6da32696a235c30543a80e7d33b"
+
+[update]
+[update.modrinth]
+mod-id = "O3HDffUR"
+version = "Y9ER59oU"

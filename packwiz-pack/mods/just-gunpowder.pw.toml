@@ -1,0 +1,13 @@
+name = "Just Gunpowder"
+filename = "just_gunpowder-1.2.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y6NwvS0o/versions/lxkvElJj/just_gunpowder-1.2.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1a66f2e30eead7a8687326aabf8d547bbef6239696c730955f4e8605a481027cb776bb65259220a691485fd04b80f5c7e052cdaf197a03a6d4db9d512838628e"
+
+[update]
+[update.modrinth]
+mod-id = "Y6NwvS0o"
+version = "lxkvElJj"

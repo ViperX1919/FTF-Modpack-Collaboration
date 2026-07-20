@@ -1,0 +1,13 @@
+name = "OptiLeaves"
+filename = "optileaves-1.20.x-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ChDudAun/versions/eK1qn5Bh/optileaves-1.20.x-1.1.0.jar"
+hash-format = "sha512"
+hash = "60444e50ba74971889d2ca9870393ceeee440f0dc9f6745fd23bf4ac6b1ca8459c79afd7d6ebc667c36d236887524b69b38ba4afe8bba780379637f98010b04f"
+
+[update]
+[update.modrinth]
+mod-id = "ChDudAun"
+version = "eK1qn5Bh"

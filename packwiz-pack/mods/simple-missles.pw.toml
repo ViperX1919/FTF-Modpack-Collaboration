@@ -1,0 +1,13 @@
+name = "Simple Missles"
+filename = "simplemissiles-1.6.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMBvvutR/versions/HMdpuHmt/simplemissiles-1.6.6-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "63d9a40f872aa52950181f8e331663c2ff0f12060543a23af42afaa344662a144c0928b61b5d09dd0413861a6c64c7f1f70c4ae9f884d76bc42dc79479ab8f90"
+
+[update]
+[update.modrinth]
+mod-id = "UMBvvutR"
+version = "HMdpuHmt"

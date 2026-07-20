@@ -1,0 +1,13 @@
+name = "Civilian Aviation - Immersive Aircraft"
+filename = "civilian_aviation-1.0.2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j79fE2us/versions/ClkJoKdV/civilian_aviation-1.0.2-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "b7887bfec207820c5b68e1be042f8c2ca3665be4325b7e7f26c281431e3c70340c0ebee0cea0d3130d0a445ac9c2baed420a15e3acd142b7b124001009361abc"
+
+[update]
+[update.modrinth]
+mod-id = "j79fE2us"
+version = "ClkJoKdV"

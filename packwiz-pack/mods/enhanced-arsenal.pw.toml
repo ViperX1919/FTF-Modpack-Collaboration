@@ -1,0 +1,13 @@
+name = "Enhanced Arsenal"
+filename = "vanilla_equipment-0.0.7-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/46YrCtqo/versions/Ne6gHyVl/vanilla_equipment-0.0.7-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "7c7f05873b54ee5aaab8de2d832a214f89621b6cfa66c2a0f36901339582201f1b25f2b5019ee434c9cd0bbb00eace69880b2b1c0431cfee47cdc6d062ba82f4"
+
+[update]
+[update.modrinth]
+mod-id = "46YrCtqo"
+version = "Ne6gHyVl"

@@ -1,0 +1,13 @@
+name = "Sporebound Parasite "
+filename = "Sporebound- Parasite.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6857f79f7a19a3376c88ff12fc9bcb28ae08c5ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7584800
+project-id = 1452282

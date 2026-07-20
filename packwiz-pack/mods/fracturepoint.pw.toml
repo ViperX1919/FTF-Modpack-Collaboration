@@ -1,0 +1,13 @@
+name = "Fracture Point"
+filename = "warborn-1.20.1-2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N4vy2cag/versions/kbNxcDSk/warborn-1.20.1-2.3.2.jar"
+hash-format = "sha512"
+hash = "ba5c72f0dee4a9c205bef61fa3697dbe8b99342cec3d96ae5b3dfc8d4741ad698cd2c17d5b817b26f9884fa3f5c25ec52eec8767edec0f9d243dc128491b9439"
+
+[update]
+[update.modrinth]
+mod-id = "N4vy2cag"
+version = "kbNxcDSk"

@@ -1,0 +1,13 @@
+name = "Aesthetic Storage"
+filename = "aestheticstorage-1.20.1_forge_v2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZOgCd8lk/versions/V2KUxve6/aestheticstorage-1.20.1_forge_v2.0.0.jar"
+hash-format = "sha512"
+hash = "9188d8ce3cfd6032cf8a357f8b75afc2c685f12ddc4b809416d8fab9e9fa6642fc7b4ab542a26d2575603ca7d1426ffd8d3fa6b4c90f7ea3715a9b074d3c7a72"
+
+[update]
+[update.modrinth]
+mod-id = "ZOgCd8lk"
+version = "V2KUxve6"

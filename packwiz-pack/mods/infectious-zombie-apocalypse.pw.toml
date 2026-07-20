@@ -1,0 +1,13 @@
+name = "Infectious - Zombie Apocalypse"
+filename = "Infectious-forge-1.20.1-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nwf9JJEL/versions/fCc1PXqp/Infectious-forge-1.20.1-1.7.jar"
+hash-format = "sha512"
+hash = "94ccde3dc43d2c30a9d7de695bcfefe66016530723f453f283888fcae0564410301163cb97ced799640079c284977a54b835968b4085ad811bdabcbe8eaa87da"
+
+[update]
+[update.modrinth]
+mod-id = "Nwf9JJEL"
+version = "fCc1PXqp"
