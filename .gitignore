@@ -32,3 +32,6 @@ resourcepacks/*
 
 # Also keep .gitignore itself
 !.gitignore
+
+# Repo README
+!README.md
